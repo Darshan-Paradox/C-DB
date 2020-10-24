@@ -1,0 +1,25 @@
+[X] --deletion function
+[] --implement pointer type (File pointer, row pointer, key pointer)
+[] --implement list type (dynamic array or linked list)
+[] --implement struct type
+[] --implement auto-timestamping
+[] --implement auto-indexing
+[] --implement expiry time and TTL (time to live)
+[] --implement REPL
+[] --implement more strict type checking
+[] --feature of caching (to store a part of data_base to RAM)
+[] --using indices and Binary-Tree to search faster than current linear search
+[] --let user decide to use linear or binary search
+[] --add serving feature to let database serve at a particular ip and port address
+[] --implement security features like hidden type and read only type
+[] --add support for other file types like csv, json, ...
+[] --implement multi_threading
+
+--IDEA--
+void convert(type, value, ...)
+{
+	if type == INT
+		va_arg(valist, int) = atoi(value);
+	else if
+	...
+}
