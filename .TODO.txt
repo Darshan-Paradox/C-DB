@@ -2,6 +2,7 @@
 [] --implement pointer type (File pointer, row pointer, key pointer)
 [] --implement list type (dynamic array or linked list)
 [] --implement struct type
+[] --implement transaction stack (contains previous actions)
 [] --implement auto-timestamping
 [] --implement auto-indexing
 [] --implement expiry time and TTL (time to live)
