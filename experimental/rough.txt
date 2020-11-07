@@ -1,0 +1,13 @@
+		 OUT:Index Value
+			 ___________
+IN	# func	|	  |		|
+KEY -> [] ->|	  |		|
+			|	  |		|
+			|_____|_____|
+
+hash function => example:
+						JOHN => 10*1+15*2+8*3+14*4 = 120
+
+time comp. of hash func. => O(n); n = # of characters in string
+
+
